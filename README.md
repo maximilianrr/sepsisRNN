@@ -16,7 +16,7 @@ This project implements a Recurrent Neural Network (RNN) without high-level ML f
 ## Repository Structure
 
 ```
-Assignment3/
+sepsisRNN/
 ├── Maximilian_Rauer_assignment3.ipynb  # Main notebook
 ├── requirements.txt                    # Python dependencies
 ├── models/                             # Saved best-model weights (.npy)
