@@ -38,6 +38,7 @@ Each partition contains ~245 non-sepsis and ~74 sepsis patients with 30-minute i
 > **Download the dataset and place the `.tsv` files in the `raw_data/` directory before running the notebook.**
 >
 > Download the files from the following link: https://www.cl.uni-heidelberg.de/statnlpgroup/sepsisexp/#data
+> It is important to create a `raw_data/` folder under: `Assignment3/raw_data/`
 
 ## Prerequisites
 
